@@ -1,0 +1,9 @@
+
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(ˆ†¬ûùÿÿÿÿ8Î­›ôš/
+Z	java:S106T"9Replace this use of System.out or System.err by a logger.(ĞµçŞùÿÿÿÿ8´£Ïóš/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(±üÿ8â ¨ˆ™/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òö×8â ¨ˆ™/
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ğù÷Í8â ¨ˆ™/
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(²ÀÉßıÿÿÿÿ8È¶Ÿôš/
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(ğÑ€¦8â ¨ˆ™/

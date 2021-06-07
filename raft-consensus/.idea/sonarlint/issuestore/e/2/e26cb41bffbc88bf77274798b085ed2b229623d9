@@ -1,0 +1,8 @@
+
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(ÚÖ«ª8ç‡¤ú•/
+V
+java:S11721"4Remove this unused method parameter "clientRequest".(“ˆíóøÿÿÿÿ8ç®½Š™/
+\
+java:S1118":Add a private constructor to hide the implicit public one.(÷Ê”şÿÿÿÿ8ßéÊÍ“/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Şé½³8—ë³¼•/
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(ƒ¼äúÿÿÿÿ8—ë³¼•/

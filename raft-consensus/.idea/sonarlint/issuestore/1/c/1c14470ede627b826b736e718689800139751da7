@@ -1,0 +1,16 @@
+
+p
+java:S4042*"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8â—¦é•/
+Q
+java:S1172f"/Remove this unused method parameter "fileName".(ó©›èùÿÿÿÿ8ˆ«îè•/
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(ˆ˜…œşÿÿÿÿ8è†µé•/
+Z	java:S106]"9Replace this use of System.out or System.err by a logger.(¨©È“ûÿÿÿÿ8âæ¼é•/
+i
+java:S2095X"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ğ­Ï8ˆ«îè•/
+n
+java:S2095;"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(µÎ Àúÿÿÿÿ8ˆ«îè•/
+e
+java:S2095U"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(šîæ¡8ˆ«îè•/
+\	java:S899*";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8â—¦é•/
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ÚÔ¯ä8üÁ¤é•/
+]	java:S125j"<This block of commented-out lines of code should be removed.(ïè”ûÿÿÿÿ8ˆ«îè•/

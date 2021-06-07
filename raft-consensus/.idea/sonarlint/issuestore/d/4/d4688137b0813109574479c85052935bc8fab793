@@ -1,0 +1,9 @@
+
+F
+java:S2140U")Use "java.util.Random.nextInt()" instead.(ĞÅï8«–°Æ•/
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(¦¥Ÿé8Àó´Œ–/
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ıèÇ¼úÿÿÿÿ8ç·Öú•/
+]	java:S125P"<This block of commented-out lines of code should be removed.( Œùƒøÿÿÿÿ8¿ıŠ–/
+I
+java:S16022",Remove useless curly braces around statement(˜¤ä8›ÚİÎ•/

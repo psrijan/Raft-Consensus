@@ -1,0 +1,33 @@
+
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(êâÕÅ8¸¶ğŠ™/
+m
+java:S1192;"KDefine a constant instead of duplicating this literal "FOLLOWER: " 6 times.(¡¾±òÿÿÿÿÿ8ı±‚“–/
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(¡¾±òÿÿÿÿÿ8¸¶ğŠ™/
+`
+java:S1854"=Remove this useless assignment to local variable "isUpdated".(ğ¬ä©ûÿÿÿÿ8ñ¸Ùå•/
+Q
+java:S1481".Remove this unused "isUpdated" local variable.(ğ¬ä©ûÿÿÿÿ8ñ¸Ùå•/
+]	java:S125]"<This block of commented-out lines of code should be removed.(—Ë¡Šüÿÿÿÿ8€¿Ş•/
+Q
+java:S1481„".Remove this unused "isUpdated" local variable.(……œâúÿÿÿÿ8èòÙå•/
+V	java:S106™"9Replace this use of System.out or System.err by a logger.(”ùıã8œÑÇŒ–/
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(·×Æ°ûÿÿÿÿ8¸¶ğŠ™/
+T
+java:S1135,"2Complete the task associated to this TODO comment.(×½åÁüÿÿÿÿ8¸¶ğŠ™/
+`
+java:S1854„"=Remove this useless assignment to local variable "isUpdated".(……œâúÿÿÿÿ8èòÙå•/
+]	java:S125L"<This block of commented-out lines of code should be removed.(ñ‹¼Šøÿÿÿÿ8€¿Ş•/
+]	java:S125~"<This block of commented-out lines of code should be removed.(ô ˆşÿÿÿÿ8®¶¬è•/
+[	java:S106¨"9Replace this use of System.out or System.err by a logger.(ü¡˜Œıÿÿÿÿ8Æ­ú’–/
+V	java:S106§"9Replace this use of System.out or System.err by a logger.(šáºË8øÕâÏš/
+[	java:S106“"9Replace this use of System.out or System.err by a logger.(ÜÜô¯øÿÿÿÿ8îÈÒ¼•/
+[	java:S106Œ"9Replace this use of System.out or System.err by a logger.(Ú½×›ûÿÿÿÿ8ı±‚“–/
+[	java:S106"9Replace this use of System.out or System.err by a logger.(¬öŸíùÿÿÿÿ8³‰”“–/
+Z	java:S106r"9Replace this use of System.out or System.err by a logger.(Ôàèáşÿÿÿÿ8’ë³¼•/
+[	java:S106¦"9Replace this use of System.out or System.err by a logger.(Ù’ØÇşÿÿÿÿ8Æ­ú’–/
+O
+java:S1612",Replace this lambda with a method reference.(ÀÊÒşüÿÿÿÿ8’¼“–/
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÿÚ¯üÿÿÿÿ8’ë³¼•/
+Z	java:S106i"9Replace this use of System.out or System.err by a logger.(ãõ¦ùúÿÿÿÿ8’ë³¼•/
+W	java:S125W"<This block of commented-out lines of code should be removed.(¦’ñ8€¿Ş•/
